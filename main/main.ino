@@ -1,6 +1,6 @@
-int redLed = 4;
-int yellowLed = 3;
-int greenLed = 2;
+int redLed = 13;
+int yellowLed = 12;
+int greenLed = 11;
 int fan = 5;
 
 void setup() {
